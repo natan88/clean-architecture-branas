@@ -1,7 +1,7 @@
 {
   "name": "branas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto para estudar, com seriedade, clean code, clean architecture, TDD e DDD.",
   "main": "src/index.js",
   "scripts": {
     "tsc:init": "tsc --init",
@@ -9,7 +9,7 @@
     "test": "tsc && jest dist/"
   },
   "keywords": [],
-  "author": "",
+  "author": "Natan Freire",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^27.4.0",
